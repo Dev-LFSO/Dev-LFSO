@@ -21,6 +21,7 @@
   - 🐍 Python (Intermediário)
   - ⚡ C++ (foco em programação competitiva)
   - ☕ Java (básico, com interface gráfica)
+  - 🎲 MySQL (Intermediário)
 
 - **Frameworks & Bibliotecas:**
   - 🌐 Django
@@ -29,15 +30,16 @@
 
 - **Ferramentas:**
   - 🔧 Git & GitHub
+  - 🌎 Linux e WSL
 
 ---
 
 ### 📂 Projetos em destaque
 
-- 🔭 [UNICADS](https://github.com/Dev-LFSO/UNICADS)  
-- 🌐 [Projetos com Django](https://github.com/Dev-LFSO/Django)  
+- 🔭 [UNICADS](https://github.com/Dev-LFSO/UNICADS)
+- 🌐 [Django](https://github.com/Dev-LFSO/Django)
+- 🤓 [NerdMan](https://github.com/Dev-LFSO/Trabalho-3-INF110)
 - 👨‍💻 [Veja todos os meus repositórios](https://github.com/Dev-LFSO?tab=repositories)
-
 ---
 
 ### 📫 Contato
